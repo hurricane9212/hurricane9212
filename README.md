@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hurricane9212
+- 👋 Hi, My name is Bryan
 - 👀 I’m interested in coding, music, games, and anime.
 - 🌱 I’m currently learning ruby, python, and java
 - 💞️ I’m looking to collaborate on any fun projects
